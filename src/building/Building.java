@@ -12,7 +12,7 @@ import passengers.Passengers;
 
 // TODO: Auto-generated Javadoc
 /**
- * @author Vijay
+ * @author Arjun
  * The Class Building.
  */
 // TODO: Auto-generated Javadoc
